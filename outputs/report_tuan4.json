@@ -1,0 +1,222 @@
+{
+  "verdict": "NGHI VẤN CAN THIỆP",
+  "fields": {
+    "so_thua": null,
+    "to_ban_do": null,
+    "dien_tich": null,
+    "hinh_thuc_su_dung": "nên; 886 đ",
+    "thoi_han_su_dung": null,
+    "chu_so_huu": "Hoài tạo OCN cá số"
+  },
+  "diagram": {
+    "n_edges": 18,
+    "n_corners": 0,
+    "corners_px": [],
+    "px_per_m": 51.33269647335712,
+    "edges_labeled": [
+      {
+        "p1": [
+          15.0,
+          31.0
+        ],
+        "p2": [
+          269.0,
+          31.0
+        ],
+        "len_px": 254.0,
+        "label_m": 19.0,
+        "px_per_m": 13.368421052631579,
+        "deviation": 0.7395729823082622,
+        "suspicious": true
+      },
+      {
+        "p1": [
+          129.0,
+          302.0
+        ],
+        "p2": [
+          193.23357664233575,
+          125.35766423357668
+        ],
+        "len_px": 187.95868469768737,
+        "label_m": 3.0,
+        "px_per_m": 62.652894899229125,
+        "deviation": 0.22052608188520662,
+        "suspicious": true
+      },
+      {
+        "p1": [
+          161.0,
+          311.0
+        ],
+        "p2": [
+          228.40907367622896,
+          136.1577151522811
+        ],
+        "len_px": 187.38678657967893,
+        "label_m": 1.0,
+        "px_per_m": 187.38678657967893,
+        "deviation": 2.6504372350074594,
+        "suspicious": true
+      },
+      {
+        "p1": [
+          330.0,
+          324.0
+        ],
+        "p2": [
+          330.0,
+          160.0
+        ],
+        "len_px": 164.0,
+        "label_m": 1.0,
+        "px_per_m": 164.0,
+        "deviation": 2.1948448312104523,
+        "suspicious": true
+      },
+      {
+        "p1": [
+          338.0,
+          14.0
+        ],
+        "p2": [
+          343.0,
+          167.0
+        ],
+        "len_px": 153.08167754502824,
+        "label_m": 1.0,
+        "px_per_m": 153.08167754502824,
+        "deviation": 1.9821475991326745,
+        "suspicious": true
+      },
+      {
+        "p1": [
+          344.0,
+          199.0
+        ],
+        "p2": [
+          348.0,
+          325.0
+        ],
+        "len_px": 126.0634760745554,
+        "label_m": 5.0,
+        "px_per_m": 25.21269521491108,
+        "deviation": 0.5088375061692489,
+        "suspicious": true
+      },
+      {
+        "p1": [
+          189.0,
+          94.0
+        ],
+        "p2": [
+          253.0,
+          116.0
+        ],
+        "len_px": 67.67569726275453,
+        "label_m": 1.0,
+        "px_per_m": 67.67569726275453,
+        "deviation": 0.31837409511265036,
+        "suspicious": true
+      },
+      {
+        "p1": [
+          0.0,
+          281.0
+        ],
+        "p2": [
+          0.0,
+          239.0
+        ],
+        "len_px": 42.0,
+        "label_m": 6.0,
+        "px_per_m": 7.0,
+        "deviation": 0.8636346718385782,
+        "suspicious": true
+      },
+      {
+        "p1": [
+          44.0,
+          62.0
+        ],
+        "p2": [
+          84.0,
+          61.0
+        ],
+        "len_px": 40.01249804748511,
+        "label_m": 1.0,
+        "px_per_m": 40.01249804748511,
+        "deviation": 0.22052608188520662,
+        "suspicious": true
+      },
+      {
+        "p1": [
+          125.0,
+          223.0
+        ],
+        "p2": [
+          126.0,
+          261.0
+        ],
+        "len_px": 38.01315561749642,
+        "label_m": 2.0,
+        "px_per_m": 19.00657780874821,
+        "deviation": 0.6297373971263506,
+        "suspicious": true
+      }
+    ],
+    "area_diagram_m2": null
+  },
+  "stamp": {
+    "score": 0.9999999999990234,
+    "angle": 0,
+    "match": true,
+    "mode": "DEMO (chưa có mẫu chuẩn — tự so với chính nó, điểm vô nghĩa)"
+  },
+  "flags": [
+    {
+      "level": "CAO",
+      "msg": "CẠNH NGHI VẤN: nhãn 19.0 m, lệch tỉ lệ 74%"
+    },
+    {
+      "level": "CAO",
+      "msg": "CẠNH NGHI VẤN: nhãn 3.0 m, lệch tỉ lệ 22%"
+    },
+    {
+      "level": "CAO",
+      "msg": "CẠNH NGHI VẤN: nhãn 1.0 m, lệch tỉ lệ 265%"
+    },
+    {
+      "level": "CAO",
+      "msg": "CẠNH NGHI VẤN: nhãn 1.0 m, lệch tỉ lệ 219%"
+    },
+    {
+      "level": "CAO",
+      "msg": "CẠNH NGHI VẤN: nhãn 1.0 m, lệch tỉ lệ 198%"
+    },
+    {
+      "level": "CAO",
+      "msg": "CẠNH NGHI VẤN: nhãn 5.0 m, lệch tỉ lệ 51%"
+    },
+    {
+      "level": "CAO",
+      "msg": "CẠNH NGHI VẤN: nhãn 1.0 m, lệch tỉ lệ 32%"
+    },
+    {
+      "level": "CAO",
+      "msg": "CẠNH NGHI VẤN: nhãn 6.0 m, lệch tỉ lệ 86%"
+    },
+    {
+      "level": "CAO",
+      "msg": "CẠNH NGHI VẤN: nhãn 1.0 m, lệch tỉ lệ 22%"
+    },
+    {
+      "level": "CAO",
+      "msg": "CẠNH NGHI VẤN: nhãn 2.0 m, lệch tỉ lệ 63%"
+    },
+    {
+      "level": "TRUNG BÌNH",
+      "msg": "OCR thiếu trường: so_thua, to_ban_do, dien_tich, thoi_han_su_dung"
+    }
+  ]
+}
